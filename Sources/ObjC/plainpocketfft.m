@@ -8,8 +8,8 @@
 
 #include "plainpocketfft.h"
 #include <math.h>
-#include "string.h"
-#include "stdio.h"
+#include <string.h>
+#include <stdio.h>
 
 #define NPY_RESTRICT
 
